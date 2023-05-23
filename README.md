@@ -19,7 +19,7 @@ For gradle script:
 1. Clone the repo
 
 ```shell
-git clone git@github.com:MellowPhi/cinema-room-manager-console.git
+git clone https://github.com/MellowPhi/cinema-room-manager-console.git
 ```
 
 2. Build the project
